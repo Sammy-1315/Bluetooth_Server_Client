@@ -1,5 +1,5 @@
 # Bluetooth_Server_Client
-This project demonstrates a Bluetooth Low Energy (BLE) communication setup between an ESP32 microcontroller and a Python client. The ESP32 acts as a BLE server, periodically sending data, while the Python script functions as a BLE client, receiving and displaying notifications.
+This project demonstrates a Bluetooth Low Energy (BLE) communication setup between an ESP32 microcontroller and a Python client. The ESP32 acts as a BLE server, periodically sending data, while the Python script functions as a BLE client, receiving and displaying notifications. The main features enabled include read,write, and notify
 
 ## Components
 ESP32 Microcontroller: Configured as a BLE server using Arduino.
